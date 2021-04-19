@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alifbhanvadiya14
+- 👋 Hi, I’m Alif Bhanvadiya
 - 👀 I’m interested in Flutter, DataScience
 - 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on projects related to Flutter and Python
